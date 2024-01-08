@@ -1,0 +1,101 @@
+h1 {
+    text-align: center;
+    background-color: bisque;
+}
+
+.Familia {
+font-size: 20px;
+color: black;
+background-color: bisque;
+text-align: center;
+}
+
+.Familia_size {
+    text-align: center;
+}
+
+.Data {
+    text-align: center;
+    background-color: bisque;
+    color: black;
+    font-size: 20px;
+}
+
+.Data1 {
+    text-align: center;
+    font-size: 15px;
+}
+
+.Pol {
+    text-align: center;
+    background-color: bisque;
+    font-size: 20px;
+}
+
+.Univer {
+    text-align: center;
+    background-color: bisque;
+    font-size: 20px;
+}
+
+.Language {
+    text-align: center;
+    background-color: bisque;
+    font-size: 20px;
+
+}
+
+.email {
+    text-align: center;
+    background-color: bisque;
+    font-size: 20px;
+}
+
+.number {
+    text-align: center;
+    background-color: bisque;
+    font-size: 20px;
+}
+
+.local {
+    text-align: center;
+    background-color: bisque;
+    font-size: 20px;
+}
+
+.polojenie {
+    text-align: center;
+    background-color: bisque;
+    font-size: 20px; 
+}
+
+.motivation {
+    text-align: center;
+    background-color: bisque;
+    font-size: 18px; 
+}
+
+.level {
+    text-align: center;
+    background-color: bisque;
+    font-size: 20px; 
+}
+
+.usloviya {
+    text-align: center;
+    background-color: bisque;
+    font-size: 20px; 
+}
+
+.button {
+    text-align: center;
+    width: 1850px;
+    height: 50px;   
+}
+
+.checkbox {
+    text-align: left;
+    width: 900px;
+    height: 50px;
+    
+}

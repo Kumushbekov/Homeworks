@@ -1,0 +1,253 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 50px;
+    background-color: darkorchid;
+    color: white;
+    align-items: top;
+    margin-bottom: 50px;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    width: 400px;
+    align-items: top;
+    padding: 15px;
+}
+
+.title {
+    justify-content: center;
+    display: flex;
+}
+.title2 {
+    color: white;
+    width: 650px;
+    font-size: xx-large;
+    text-align: center;
+}
+
+.home {
+    background-color: darkorchid;
+}
+
+.button {
+    background-color: orange;
+    width: 220px;
+    height: 50px;
+    border: none;
+    margin-bottom: 100px;
+    transition: all 0.5s linear;
+}
+
+.paxan {
+    justify-content: center;
+    display: flex;
+    padding-top: 40px;
+}
+
+.knopka {
+    padding: 5px;
+    transition: all 2s linear;
+}
+
+.knopka:hover {
+    color: white;
+    background-color: rgb(79, 10, 114);
+}
+
+button:active {
+    background-color: red;
+    width: 300px;
+} 
+
+.home2 {
+    background-color: rgb(70, 224, 217);
+}
+
+.text {
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.linea {
+    color: rgb(124, 121, 121);
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.text2 {
+    justify-content: center;
+    display: flex; 
+}
+
+.text3 {
+    color: white;
+    width: 450px;
+    font-size: medium;
+    text-align: center;  
+    padding-bottom: 50px;
+}
+
+.pictures {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.image {
+    width: 80px;
+    height: 80px;
+    /* padding-left: 250px; */
+    padding-bottom: 50px;
+    transition: all 1s linear;
+}
+
+.image:hover {
+   transform: scale(2);
+}
+
+
+/* .knopka {
+    background-color: rgb(69, 7, 100);
+    padding: 3px;
+}
+
+.knopka2 {
+    padding: 3px;
+} */
+
+
+/* .main {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 50px;
+    background-color: darkorchid;
+    color: white;
+    height: 350px;
+
+} */
+
+/* .logo {
+    display: flex;
+} */
+
+/* 
+.logo {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 50px;
+    background-color: darkorchid;
+    color: white;
+    height: 350px;
+} */
+
+
+/* .navbar {
+    display: flex;
+    justify-content: end;
+    justify-content: space-between;
+    width: 400px;
+}
+     */
+
+/* .home1 {
+    display: inline;
+    color: white;
+    border-width: 2px;
+    padding: 5px;
+    border-style: none;
+    background-color: rgb(75, 14, 133);
+    font-size: small;
+    font-weight: 500;
+    margin-left: 300px;
+}
+
+.about1 {
+    display: inline;
+    color: white;
+    border-width: 1px;
+    border-style: none;
+    font-size: small;
+    font-weight: 500;
+    margin-left: 20px;
+}
+
+.work1 {
+    display: inline;
+    color: white;
+    border-width: 1px;
+    border-style: none;
+    font-size: small;
+    font-weight: 500;
+    margin-left: 20px;
+}
+
+.blog1 {
+    display: inline;
+    color: white;
+    border-width: 1px;
+    border-style: none;
+    font-size: small;
+    font-weight: 500;
+    margin-left: 20px;
+}
+
+.contact1 {
+    display: inline;
+    color: white;
+    border-width: 1px;
+    border-style: none;
+    font-size: small;
+    font-weight: 500;
+    margin-left: 20px;
+} */
+
+
+/* .Hi1 {
+    padding-top: 80px;
+    margin-left: 130px;
+    text-align: center;
+    width: 600px;
+    font-size: x-large;
+    font-weight: 500;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 500;
+}
+
+button{
+    margin-left: 350px;
+    width: 200px;
+    height: 50px;
+    font-size: x-small;
+    font-weight: 600;
+    color: white;
+    background: orange;
+    border-color: orange;
+}   
+
+.child2 {
+    background-color: turquoise;
+    color: white;
+    height: 350px;
+    padding-top: 30px; 
+}
+
+.services {
+    margin-left: 320px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 600;
+    padding-top: 40px;
+}
+
+.line {
+    height: 2px;
+    width: 50px;
+    background-color: darkslategray;
+    margin-left: 425px;
+} */ 
