@@ -6,7 +6,7 @@
 .part1 {
     height: 800px;
    background: linear-gradient(to left, #3f733a, #6eca55, #3f733a); 
-   background-image: url(https://cdn.pixabay.com/photo/2013/07/18/01/26/tree-163340_1280.jpg);
+   background-image: url(tree-163340_1280.jpg);
    background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
