@@ -149,6 +149,12 @@ git commit -m "some commentaries to added files"
     padding-left: 0;
   }
 
+  .create-line {
+    height: 200px;
+    border-left: 3px solid grey;
+  }
+
+
   .main1text {
     
   }
