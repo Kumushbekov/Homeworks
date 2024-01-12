@@ -135,26 +135,36 @@ git commit -m "some commentaries to added files"
 }
 
   .main1 {
-    height: 400px;
-    width: 400px;
+    height: 40px;
+    width: 600px;
     display: flex;
     padding-top: 15%;
   }
 
   .research {
     font-size: 30px;
-    font-weight: 300;
+    font-weight: 300px;
     font-family: Arial, Helvetica, sans-serif, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     justify-content: center;
-    padding-left: 0;
+    padding-left: 12%;
   }
 
   .create-line {
-    height: 200px;
+    height: 310px;
     border-left: 3px solid grey;
+    margin-left: 10%;
   }
 
 
   .main1text {
-    
+    display: flex;
+    width: 30%;
+    padding-left: 12%;
+    color: gray;
+    padding-top: 3%;
+    font-size: 22px;
+    font-weight: 300;
+    font-family: Arial, Helvetica, sans-serif, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   }
+
+  
