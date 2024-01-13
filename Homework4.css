@@ -142,22 +142,25 @@ git commit -m "some commentaries to added files"
     display: flex;
     /* padding-top: 15%; */
     border-right: 3px solid gray;
+    /* justify-content: center; */
   }
 
   .lorem {
     font-size: 30px;
     font-weight: 300px;
     font-family: Arial, Helvetica, sans-serif, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    justify-content: center;
+    /* justify-content: center; */
+    margin-top: 10%;
     margin-left: 10%;
   }
 
   .research {
     font-size: 30px;
-    font-weight: 300px;
+    /* font-weight: 300px; */
     font-family: Arial, Helvetica, sans-serif, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     /* justify-content: center; */
     /* padding-left: 30%; */
+    height: 40px;
   }
 
   /* .create-line {
