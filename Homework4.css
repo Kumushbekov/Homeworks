@@ -124,7 +124,7 @@ git commit -m "some commentaries to added files"
 
  
 .part2 {
-    height: 700px;
+    height: 500px;
 }
 
 .logo1 {
@@ -173,6 +173,8 @@ git commit -m "some commentaries to added files"
   
   .card1 {
     width: 350px;
+    margin-left: 10%;
+    margin-top: 10%;
     border-right: 2px solid grey;
 }
 
