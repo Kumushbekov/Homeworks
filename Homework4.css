@@ -124,25 +124,26 @@ git commit -m "some commentaries to added files"
 
  
 .part2 {
-    height: 500px;
+    /* height: 500px; */
+    display: flex;
 }
 
-.logo1 {
+/* .logo1 {
     height: 30px;
     width: 30px;
     padding-left: 20%;
-}
+} */
 
-  .main1 {
+  /* .main1 {
     margin-top: 10%;
     margin-left: 10%;
     height: 400px;
-    width: 600px;
+    width: 600px; */
     /* display: flex; */
     /* padding-top: 15%; */
-    border-right: 3px solid gray;
+    /* border-right: 3px solid gray; */
     /* justify-content: center; */
-  }
+  /* } */
 
   /* .lorem {
     font-size: 30px;
@@ -176,6 +177,7 @@ git commit -m "some commentaries to added files"
     margin-left: 10%;
     margin-top: 10%;
     border-right: 2px solid grey;
+    margin-bottom: 10%;
 }
 
 .title-block {
