@@ -138,29 +138,21 @@ git commit -m "some commentaries to added files"
     margin-left: 10%;
     height: 400px;
     width: 600px;
-    display: flex;
+    /* display: flex; */
     /* padding-top: 15%; */
     border-right: 3px solid gray;
     /* justify-content: center; */
   }
 
-  .lorem {
+  /* .lorem {
     font-size: 30px;
     font-weight: 300px;
-    font-family: Arial, Helvetica, sans-serif, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: Arial, Helvetica, sans-serif, Haettenschweiler, 'Arial Narrow Bold', sans-serif; */
     /* justify-content: center; */
-    margin-top: 10%;
+    /* margin-top: 10%;
     margin-left: 10%;
-  }
+  } */
 
-  .research {
-    font-size: 30px;
-    /* font-weight: 300px; */
-    font-family: Arial, Helvetica, sans-serif, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    /* justify-content: center; */
-    /* padding-left: 30%; */
-    height: 40px;
-  }
 
   /* .create-line {
     height: 310px;
@@ -168,7 +160,7 @@ git commit -m "some commentaries to added files"
     margin-left: 8%;
   } */
 
-  .main1text {
+  /* .main1text {
     display: flex;
     width: 30%;
     padding-left: 12%;
@@ -177,5 +169,5 @@ git commit -m "some commentaries to added files"
     font-size: 22px;
     font-weight: 300;
     font-family: Arial, Helvetica, sans-serif, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  }
-
+  } */
+  
