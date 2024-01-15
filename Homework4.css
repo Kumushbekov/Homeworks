@@ -171,3 +171,20 @@ git commit -m "some commentaries to added files"
     font-family: Arial, Helvetica, sans-serif, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   } */
   
+  .card1 {
+    width: 350px;
+    border-right: 2px solid grey;
+}
+
+.title-block {
+    display: flex;
+    padding: 16px 12px;
+}
+
+.description-block {
+    padding: 4px 12px;
+}
+
+.read-more-block {
+    padding: 16px 12px;
+}
