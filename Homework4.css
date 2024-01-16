@@ -248,12 +248,12 @@ git commit -m "some commentaries to added files"
 }
 
 .link {
-    color: white;
+    color: grey;
     font-size: medium;
 }
 
 .link {
-    color: white;
+    color: greygit ;
     font-size: 20px;
 }
 
