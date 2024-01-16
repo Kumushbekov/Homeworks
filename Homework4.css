@@ -265,3 +265,55 @@ git commit -m "some commentaries to added files"
     margin-bottom: 8%;
 }
 
+.name {
+    background-color: rgb(85, 84, 84);
+    color: rgb(177, 177, 177);
+    height: 50px;
+    width: 300px;
+    margin-bottom: 2%;
+}
+
+.email {
+    background-color: rgb(85, 84, 84);
+    color: rgb(177, 177, 177);
+    height: 50px;
+    width: 300px;
+    margin-bottom: 2%;
+}
+
+.message {
+    background-color: rgb(85, 84, 84);
+    color: rgb(177, 177, 177);
+    height: 150px;
+    width: 300px;
+}
+
+.read-more-block2 {
+    padding: 16px 12px;
+}
+
+.button4 {
+    border-radius: 15%;
+    font-size: 10px;
+    height: 30px;
+    width: 70px;
+    border: 1px solid;
+    border-color: #3f733a;
+    background-color: #769b21; 
+    color: white;
+    margin-left: 40%;
+    margin-top: 15%;
+}
+
+.button5 {
+    border-radius: 15%;
+    font-size: 10px;
+    height: 30px;
+    width: 70px;
+    border: 1px solid;
+    border-color: rgb(85, 84, 84);
+    background-color: rgb(85, 84, 84); 
+    color: white;
+}
+
+
