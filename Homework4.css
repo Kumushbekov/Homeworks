@@ -187,8 +187,17 @@ git commit -m "some commentaries to added files"
 
 .description-block {
     padding: 4px 12px;
-    color: rgb(100, 98, 98);
+    color: rgb(187, 184, 184);
     font-size: x-large;
+}
+
+.description-block2 {
+    padding: 4px 12px;
+    color: rgb(187, 184, 184);
+    font-size: x-large;
+    margin-top: 10%;
+    margin-bottom: 10%;
+
 }
 
 .read-more-block {
@@ -208,8 +217,11 @@ git commit -m "some commentaries to added files"
 
 .text-card1 {
     font-size: 40px;
-}.text-card1 {
+}
+
+.text-card1 {
     font-size: 40px;
+    /* color: white; */
 }
 
 .part3 {
@@ -217,7 +229,7 @@ git commit -m "some commentaries to added files"
     display: flex;
 }
 
-.card1 {
+.card2 {
     width: 350px;
     margin-left: 10%;
     margin-top: 8%;
@@ -229,3 +241,27 @@ git commit -m "some commentaries to added files"
     font-size: 40px;
     color: white;
 }
+
+.text-card3 {
+    font-size: 40px;
+    color: white;
+}
+
+.link {
+    color: white;
+    font-size: medium;
+}
+
+.link {
+    color: white;
+    font-size: 20px;
+}
+
+.card3 {
+    width: 350px;
+    margin-left: 10%;
+    margin-top: 8%;
+    border-right: 2px solid grey;
+    margin-bottom: 8%;
+}
+
