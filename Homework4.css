@@ -316,4 +316,18 @@ git commit -m "some commentaries to added files"
     color: white;
 }
 
+.button3:active {
+    color: black;
+    background-color: white;
+}
+
+.button4:active {
+    color: black;
+    background-color: white;
+}
+
+.button5:active {
+    color: black;
+    background-color: white;
+}
 
