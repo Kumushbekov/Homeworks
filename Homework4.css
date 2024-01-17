@@ -229,6 +229,9 @@ git commit -m "some commentaries to added files"
     display: flex;
 }
 
+.span {
+    color: white;
+}
 .card2 {
     width: 350px;
     margin-left: 10%;
@@ -263,6 +266,8 @@ git commit -m "some commentaries to added files"
     margin-top: 8%;
     border-right: 2px solid grey;
     margin-bottom: 8%;
+    /* height: 750px; */
+    /* justify-content: ; */
 }
 
 .name {
@@ -286,6 +291,7 @@ git commit -m "some commentaries to added files"
     color: rgb(177, 177, 177);
     height: 150px;
     width: 300px;
+    font-size: 18px;
 }
 
 .read-more-block2 {
@@ -330,4 +336,6 @@ git commit -m "some commentaries to added files"
     color: black;
     background-color: white;
 }
+
+
 
