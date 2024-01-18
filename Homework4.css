@@ -303,7 +303,7 @@ git commit -m "some commentaries to added files"
     font-size: 10px;
     height: 30px;
     width: 70px;
-    border: 0.8px solid;
+    border: 1px solid;
     border-color: #3f733a;
     background-color: #769b21; 
     color: white;
