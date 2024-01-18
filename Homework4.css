@@ -337,9 +337,8 @@ git commit -m "some commentaries to added files"
     background-color: white;
 }
 
-.button5:hover {
+.button5:active {
     color: black;
     background-color: white;
 }
-
 
