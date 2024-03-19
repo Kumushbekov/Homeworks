@@ -13,51 +13,51 @@ function addPhoto() {
 }
     // addPhoto()
 
-function addText() {
+// function addText() {
 
-    let container = document.getElementById('container')
+//     let container = document.getElementById('container')
 
-    let text = prompt("Введите текст для параграфа:")
-    let p = document.createElement('p')
+//     let text = prompt("Введите текст для параграфа:")
+//     let p = document.createElement('p')
 
-    p.innerText = text
+//     p.innerText = text
 
-    container.append(p)
-}
+//     container.append(p)
+// }
 
     // addText()
 
 
-function addHeader() {
+// function addHeader() {
 
-    let container = document.getElementById('container')
+//     let container = document.getElementById('container')
 
-    let header = prompt("Введите название заголовка:")
-    let h2 = document.createElement('h2')
+//     let header = prompt("Введите название заголовка:")
+//     let h2 = document.createElement('h2')
 
-    h2.innerText = header
+//     h2.innerText = header
 
-    container.append(h2)
-}    
+//     container.append(h2)
+// }    
 
     // addHeader()
 
 
-function action() {
+// function action() {
 
-let move = prompt("Напишите цифру:")
-    if (move === "1") {
-        addPhoto()
-    } else if (move === "2") {
-        addText()        
-    } else if (move === "3") {
-        addHeader()        
-    }   else {
-        alert("Неверная цифра!")
-    }
-}
+// let move = prompt("Напишите цифру:")
+//     if (move === "1") {
+//         addPhoto()
+//     } else if (move === "2") {
+//         addText()        
+//     } else if (move === "3") {
+//         addHeader()        
+//     }   else {
+//         alert("Неверная цифра!")
+//     }
+// }
 
-action()
+// action()
 
 
 
