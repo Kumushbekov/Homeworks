@@ -57,7 +57,7 @@ let move = prompt("Напишите цифру:")
     }
 }
 
-// action()
+action()
 
 
 
