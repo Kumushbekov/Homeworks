@@ -11,11 +11,11 @@ function addPhoto() {
     container.append(imgEl)
     
 }
-    // addPhoto()
+    addPhoto()
 
-// function addText() {
+function addText() {
 
-//     let container = document.getElementById('container')
+    let container = document.getElementById('container')
 
 //     let text = prompt("Введите текст для параграфа:")
 //     let p = document.createElement('p')
