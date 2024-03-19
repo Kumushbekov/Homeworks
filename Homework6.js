@@ -17,10 +17,10 @@ function addText() {
 
     let container = document.getElementById('container')
 
-//     let text = prompt("Введите текст для параграфа:")
-//     let p = document.createElement('p')
+    let text = prompt("Введите текст для параграфа:")
+    let p = document.createElement('p')
 
-//     p.innerText = text
+    p.innerText = text
 
 //     container.append(p)
 // }
