@@ -28,9 +28,9 @@ function addText() {
     addText()
 
 
-// function addHeader() {
+function addHeader() {
 
-//     let container = document.getElementById('container')
+    let container = document.getElementById('container')
 
 //     let header = prompt("Введите название заголовка:")
 //     let h2 = document.createElement('h2')
