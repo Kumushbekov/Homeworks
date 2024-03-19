@@ -45,17 +45,17 @@ function addHeader() {
 
 function action() {
 
-// let move = prompt("Напишите цифру:")
-//     if (move === "1") {
-//         addPhoto()
-//     } else if (move === "2") {
-//         addText()        
-//     } else if (move === "3") {
-//         addHeader()        
-//     }   else {
-//         alert("Неверная цифра!")
-//     }
-// }
+let move = prompt("Напишите цифру:")
+    if (move === "1") {
+        addPhoto()
+    } else if (move === "2") {
+        addText()        
+    } else if (move === "3") {
+        addHeader()        
+    }   else {
+        alert("Неверная цифра!")
+    }
+}
 
 // action()
 
