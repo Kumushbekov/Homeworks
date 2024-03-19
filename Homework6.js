@@ -32,13 +32,13 @@ function addHeader() {
 
     let container = document.getElementById('container')
 
-//     let header = prompt("Введите название заголовка:")
-//     let h2 = document.createElement('h2')
+    let header = prompt("Введите название заголовка:")
+    let h2 = document.createElement('h2')
 
-//     h2.innerText = header
+    h2.innerText = header
 
-//     container.append(h2)
-// }    
+    container.append(h2)
+}    
 
     // addHeader()
 
