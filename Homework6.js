@@ -22,10 +22,10 @@ function addText() {
 
     p.innerText = text
 
-//     container.append(p)
-// }
+    container.append(p)
+}
 
-    // addText()
+    addText()
 
 
 // function addHeader() {
