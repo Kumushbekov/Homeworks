@@ -40,10 +40,10 @@ function addHeader() {
     container.append(h2)
 }    
 
-    // addHeader()
+    addHeader()
 
 
-// function action() {
+function action() {
 
 // let move = prompt("Напишите цифру:")
 //     if (move === "1") {
